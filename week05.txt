@@ -1,1 +1,4 @@
 1교시
+conflict
+fork
+git clone and git pull difference.
